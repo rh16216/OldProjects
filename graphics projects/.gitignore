@@ -1,0 +1,6 @@
+*.o
+*/Build/skeleton
+*.out
+*.hi
+*_stub.h
+main
